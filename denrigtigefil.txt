@@ -1,4 +1,9 @@
 et eller andet random
 haha
+<<<<<<< HEAD
 fisk
 som kan flyve
+=======
+Jeg kan ikke lide fisk
+som kan flyve
+>>>>>>> 61956c0a0843be5f217bef55a21fbb93ab87fc4f
