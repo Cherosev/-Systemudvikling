@@ -1,4 +1,9 @@
 et eller andet random
 haha
+<<<<<<< HEAD
 Jeg kan ikke lide fisk
 som kan flyve
+=======
+jo
+som kan flyve
+>>>>>>> origin/test
